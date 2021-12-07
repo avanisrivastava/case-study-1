@@ -1,0 +1,21 @@
+.heading{
+    color: red;
+}
+
+img{
+    width: 400px;
+    height: 400px;
+}
+
+h5{
+    background-color: white;
+    border-radius: 10px;
+    font-size: 30px;
+
+}
+
+.test_image_and_results{
+    background-color: rgb(137, 146, 231);
+    margin-left: 50px;
+    margin-right:50px ;
+}
